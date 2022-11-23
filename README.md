@@ -1,5 +1,3 @@
 # bookbot
 bookbot
-
-
-bookbot read me
+BookBot is my first git project!
